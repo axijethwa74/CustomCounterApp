@@ -1,9 +1,4 @@
-// ignore_for_file: file_names
 
-import 'dart:developer';
-
-import 'package:counterapp/darktheme.dart';
-import 'package:flutter/material.dart';
 
 class Controller{
 
